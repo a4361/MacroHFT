@@ -5,6 +5,8 @@ You may download the dataset from Google Drive:
 
 https://drive.google.com/drive/folders/1AYHy-wUV0IwPoA7E1zvMRPL3wK0tPNiY?usp=drive_link
 
+and put the folder under data folder.
+
 To run the demo code:
 ## Step 1
 Run scripts/decomposition.sh for data decomposition and labeling. 
